@@ -1,0 +1,564 @@
+var _JSON_string_r3 =
+{
+  'ZClassroom' :
+  [
+   {
+     "title": "Head sculpting with Steve James",
+     "link": "https://pixologic.com/zclassroom/workshop/head-sculpting-with-steve-james",
+     "difficulity": 1,
+     "video part": 6,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "Sculpting with Images",
+     "link": "https://pixologic.com/zclassroom/workshop/sculpting-with-images",
+     "difficulity": 1,
+     "video part": 2,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "A Keychain for 3D Printing",
+     "link": "https://pixologic.com/zclassroom/workshop/a-key-chain-for-3d-printing",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "Creating a Character with IMM Brushes and Gizmo 3D",
+     "link": "https://pixologic.com/zclassroom/workshop/creating-a-character-with-imm-brushes-gizmo-3d",
+     "difficulity": 1,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "Radial Symmetry",
+     "link": "https://pixologic.com/zclassroom/workshop/radial-symmetry",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "Surface Noise",
+     "link": "https://pixologic.com/zclassroom/workshop/surface-noise",
+     "difficulity": 2,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "Creating a Basemesh with Zspheres",
+     "link": "https://pixologic.com/zclassroom/workshop/creating-a-basemesh-with-zspheres",
+     "difficulity": 1,
+     "video part": 4,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrushcore"
+   },
+   {
+     "title": "Using Tessimate",
+     "link": "https://pixologic.com/zclassroom/workshop/using-tessimate",
+     "difficulity": 2,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Deformers",
+     "link": "https://pixologic.com/zclassroom/workshop/deformers",
+     "difficulity": 1,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "The Basics of Polugroupit",
+     "link": "https://pixologic.com/zclassroom/workshop/the-basics-of-polygroupit",
+     "difficulity": 1.5,
+     "video part": 2,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Using Elastic and Liquid Curve mode",
+     "link": "https://pixologic.com/zclassroom/workshop/using-elastic-liquid-curve-mode",
+     "difficulity": 2,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Discovering Groups By Normals",
+     "link": "https://pixologic.com/zclassroom/workshop/discovering-groups-by-normals",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Prop Creations",
+     "link": "https://pixologic.com/zclassroom/workshop/prop-creation",
+     "difficulity": 2,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Live Booleans",
+     "link": "https://pixologic.com/zclassroom/workshop/live-boolean",
+     "difficulity": 2,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zmodeler Polygon Actions",
+     "link": "https://pixologic.com/zclassroom/workshop/zmodeler-polygon-actions",
+     "difficulity": 1,
+     "video part": 26,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zmodeler Point Actions",
+     "link": "https://pixologic.com/zclassroom/workshop/zmodeler-point-actions",
+     "difficulity": 1,
+     "video part": 13,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zmodeler Edge Actions",
+     "link": "https://pixologic.com/zclassroom/workshop/zmodeler-edge-actions",
+     "difficulity": 1,
+     "video part": 27,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zmodeler Curve Actions",
+     "link": "https://pixologic.com/zclassroom/workshop/zmodeler-curve-actions",
+     "difficulity": 1,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Dynamic Subdivision",
+     "link": "https://pixologic.com/zclassroom/workshop/dynamic-subdivision",
+     "difficulity": 2,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Architectural Design",
+     "link": "https://pixologic.com/zclassroom/workshop/architectural-design",
+     "difficulity": 2.5,
+     "video part": 6,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Arraymesh",
+     "link": "https://pixologic.com/zclassroom/workshop/arraymesh",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Helmet Deisgn",
+     "link": "https://pixologic.com/zclassroom/workshop/helmet-design",
+     "difficulity": 2.5,
+     "video part": 41,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Panel Loops",
+     "link": "https://pixologic.com/zclassroom/workshop/panel-loops",
+     "difficulity": 2.5,
+     "video part": 11,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Vehicle Design",
+     "link": "https://pixologic.com/zclassroom/workshop/vehicle-design",
+     "difficulity": 2.5,
+     "video part": 13,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Topology",
+     "link": "https://pixologic.com/zclassroom/workshop/topology",
+     "difficulity": 2.5,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Military Assets",
+     "link": "https://pixologic.com/zclassroom/workshop/military-assets",
+     "difficulity": 2.5,
+     "video part": 18,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Environments with Seth Thompson",
+     "link": "https://pixologic.com/zclassroom/workshop/environments-with-seth-thompson",
+     "difficulity": 2.5,
+     "video part": 5,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Environments with Tate Mosesian",
+     "link": "https://pixologic.com/zclassroom/workshop/environments-with-tate-mosesian",
+     "difficulity": 2.5,
+     "video part": 6,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Transpose",
+     "link": "https://pixologic.com/zclassroom/workshop/transpose",
+     "difficulity": 2.5,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Insert Mesh",
+     "link": "https://pixologic.com/zclassroom/workshop/transpose",
+     "difficulity": 2.5,
+     "video part": 9,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Micromesh",
+     "link": "https://pixologic.com/zclassroom/workshop/micromesh",
+     "difficulity": 1.5,
+     "video part": 2,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "3D Brushes",
+     "link": "https://pixologic.com/zclassroom/workshop/3d-brushes",
+     "difficulity": 1.5,
+     "video part": 10,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Dynamesh",
+     "link": "https://pixologic.com/zclassroom/workshop/dynamesh",
+     "difficulity": 1.5,
+     "video part": 4,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Fibermesh",
+     "link": "https://pixologic.com/zclassroom/workshop/fibermesh",
+     "difficulity": 2.5,
+     "video part": 11,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Noisemaker",
+     "link": "https://pixologic.com/zclassroom/workshop/noisemaker",
+     "difficulity": 2,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Sculpting with Michael Pavlovich",
+     "link": "https://pixologic.com/zclassroom/workshop/sculpting-with-michael-pavlovich",
+     "difficulity": 1.5,
+     "video part": 5,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Shadowbox",
+     "link": "https://pixologic.com/zclassroom/workshop/shadowbox",
+     "difficulity": 1.5,
+     "video part": 7,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Projection Master",
+     "link": "https://pixologic.com/zclassroom/workshop/projection-master",
+     "difficulity": 2.5,
+     "video part": 8,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zclassroom Extras",
+     "link": "https://pixologic.com/zclassroom/workshop/zclassroom-extras",
+     "difficulity": 2.5,
+     "video part": 3,
+     "section": "digital sculpting and modelling",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Spotlight",
+     "link": "https://pixologic.com/zclassroom/workshop/spotlight",
+     "difficulity": 1,
+     "video part": 12,
+     "section": "texturing",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Texturing with GOZ",
+     "link": "https://pixologic.com/zclassroom/workshop/goz",
+     "difficulity": 1,
+     "video part": 2,
+     "section": "texturing",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Painting Techniques",
+     "link": "https://pixologic.com/zclassroom/workshop/painting-techniques",
+     "difficulity": 2.5,
+     "video part": 4,
+     "section": "texturing",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zbrush Introduction",
+     "link": "https://pixologic.com/zclassroom/workshop/zbrush-introduction",
+     "difficulity": 1,
+     "video part": 14,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Getting Started with Sculptris Pro",
+     "link": "https://pixologic.com/zclassroom/workshop/getting-started-with-sculptris-pro",
+     "difficulity": 1.5,
+     "video part": 3,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zbrush UI",
+     "link": "https://pixologic.com/zclassroom/workshop/zbrush-ui",
+     "difficulity": 1,
+     "video part": 5,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "How to Start in Zbrush",
+     "link": "https://pixologic.com/zclassroom/workshop/how-to-start-in-zbrush",
+     "difficulity": 1,
+     "video part": 12,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Gizmo 3D",
+     "link": "https://pixologic.com/zclassroom/workshop/gizmo-3d",
+     "difficulity": 1.5,
+     "video part": 3,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zmodeler Introduction",
+     "link": "https://pixologic.com/zclassroom/workshop/zmodeler-introduction",
+     "difficulity": 2,
+     "video part": 5,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zspheres",
+     "link": "https://pixologic.com/zclassroom/workshop/zspheres",
+     "difficulity": 1,
+     "video part": 14,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zbrush for Concepting",
+     "link": "https://pixologic.com/zclassroom/workshop/zbrush-for-concepting",
+     "difficulity": 2.5,
+     "video part": 6,
+     "section": "getting started",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Zbridge",
+     "link": "https://pixologic.com/zclassroom/workshop/zbridge",
+     "difficulity": 1,
+     "video part": 2,
+     "section": "Plug-ins",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "GOZ",
+     "link": "https://pixologic.com/zclassroom/workshop/zbridge",
+     "difficulity": 1,
+     "video part": 4,
+     "section": "Plug-ins",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "UV Master",
+     "link": "https://pixologic.com/zclassroom/workshop/uv-master",
+     "difficulity": 1.5,
+     "video part": 6,
+     "section": "Plug-ins",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "3d Printing and Protoyping",
+     "link": "https://pixologic.com/zclassroom/workshop/3d-printing-prototyping",
+     "difficulity": 3,
+     "video part": 7,
+     "section": "Plug-ins",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Timeline and Blendspace",
+     "link": "https://pixologic.com/zclassroom/workshop/timeline-blend-shapes",
+     "difficulity": 1.5,
+     "video part": 5,
+     "section": "Posing and Animation",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Material",
+     "link": "https://pixologic.com/zclassroom/workshop/materials",
+     "difficulity": 2.5,
+     "video part": 5,
+     "section": "Rendering",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Lighting",
+     "link": "https://pixologic.com/zclassroom/workshop/lighting",
+     "difficulity": 2,
+     "video part": 2,
+     "section": "Rendering",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Render Properties",
+     "link": "https://pixologic.com/zclassroom/workshop/render-properties",
+     "difficulity": 1,
+     "video part": 2,
+     "section": "Rendering",
+     "status": 0,
+     "software": "Zbrush"
+   },
+   {
+     "title": "Changing Languages",
+     "link": "https://pixologic.com/zclassroom/workshop/changing-languages",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "getting started",
+     "status": 0,
+     "software": "ZbrushCore"
+   },
+   {
+     "title": "The Basic of ZbrushCore",
+     "link": "https://pixologic.com/zclassroom/workshop/the-basics-of-zbrushcore",
+     "difficulity": 1,
+     "video part": 10,
+     "section": "getting started",
+     "status": 0,
+     "software": "ZbrushCore"
+   },
+   {
+     "title": "Conceptual Sculpting",
+     "link": "https://pixologic.com/zclassroom/workshop/conceptual-sculpting",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "getting started",
+     "status": 0,
+     "software": "ZbrushCore"
+   },
+   {
+     "title": "Subdivision vs Dynamesh",
+     "link": "https://pixologic.com/zclassroom/workshop/subdivision-vs-dynamesh",
+     "difficulity": 1,
+     "video part": 1,
+     "section": "getting started",
+     "status": 0,
+     "software": "ZbrushCore"
+   }
+  ]
+}
