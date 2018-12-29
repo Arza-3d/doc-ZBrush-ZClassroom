@@ -1,6 +1,7 @@
 var _JSON_string_r3 =
 {
   'ZClassroom' :
+
   [
    {
      "title": "Head sculpting with Steve James",
@@ -8,8 +9,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 6,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": "character modeller"
    },
    {
      "title": "Sculpting with Images",
@@ -17,8 +19,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 2,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": ""
    },
    {
      "title": "A Keychain for 3D Printing",
@@ -26,8 +29,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": ""
    },
    {
      "title": "Creating a Character with IMM Brushes and Gizmo 3D",
@@ -35,8 +39,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": ""
    },
    {
      "title": "Radial Symmetry",
@@ -44,8 +49,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": ""
    },
    {
      "title": "Surface Noise",
@@ -53,8 +59,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": ""
    },
    {
      "title": "Creating a Basemesh with Zspheres",
@@ -62,8 +69,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 4,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrushcore"
+     "progress": 0,
+     "software": "Zbrushcore",
+     "for": ""
    },
    {
      "title": "Using Tessimate",
@@ -71,8 +79,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Deformers",
@@ -80,17 +89,19 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
-     "title": "The Basics of Polugroupit",
+     "title": "The Basics of Polygroupit",
      "link": "https://pixologic.com/zclassroom/workshop/the-basics-of-polygroupit",
      "difficulity": 1.5,
      "video part": 2,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Using Elastic and Liquid Curve mode",
@@ -98,8 +109,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Discovering Groups By Normals",
@@ -107,8 +119,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Prop Creations",
@@ -116,8 +129,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Live Booleans",
@@ -125,8 +139,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zmodeler Polygon Actions",
@@ -134,8 +149,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 26,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zmodeler Point Actions",
@@ -143,8 +159,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 13,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zmodeler Edge Actions",
@@ -152,8 +169,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 27,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zmodeler Curve Actions",
@@ -161,8 +179,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Dynamic Subdivision",
@@ -170,8 +189,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Architectural Design",
@@ -179,8 +199,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 6,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Arraymesh",
@@ -188,8 +209,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Helmet Deisgn",
@@ -197,8 +219,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 41,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Panel Loops",
@@ -206,8 +229,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 11,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Vehicle Design",
@@ -215,8 +239,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 13,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Topology",
@@ -224,8 +249,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Military Assets",
@@ -233,8 +259,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 18,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Environments with Seth Thompson",
@@ -242,8 +269,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 5,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Environments with Tate Mosesian",
@@ -251,8 +279,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 6,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Transpose",
@@ -260,8 +289,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Insert Mesh",
@@ -269,8 +299,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 9,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Micromesh",
@@ -278,8 +309,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 2,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "3D Brushes",
@@ -287,8 +319,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 10,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Dynamesh",
@@ -296,8 +329,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 4,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Fibermesh",
@@ -305,8 +339,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 11,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Noisemaker",
@@ -314,8 +349,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Sculpting with Michael Pavlovich",
@@ -323,8 +359,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 5,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Shadowbox",
@@ -332,8 +369,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 7,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Projection Master",
@@ -341,8 +379,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 8,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zclassroom Extras",
@@ -350,8 +389,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 3,
      "section": "digital sculpting and modelling",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Spotlight",
@@ -359,8 +399,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 12,
      "section": "texturing",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Texturing with GOZ",
@@ -368,8 +409,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 2,
      "section": "texturing",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Painting Techniques",
@@ -377,8 +419,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 4,
      "section": "texturing",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zbrush Introduction",
@@ -386,8 +429,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 14,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Getting Started with Sculptris Pro",
@@ -395,8 +439,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 3,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zbrush UI",
@@ -404,8 +449,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 5,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "How to Start in Zbrush",
@@ -413,8 +459,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 12,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Gizmo 3D",
@@ -422,8 +469,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 3,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zmodeler Introduction",
@@ -431,8 +479,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 5,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zspheres",
@@ -440,8 +489,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 14,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zbrush for Concepting",
@@ -449,8 +499,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 6,
      "section": "getting started",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Zbridge",
@@ -458,8 +509,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 2,
      "section": "Plug-ins",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "GOZ",
@@ -467,8 +519,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 4,
      "section": "Plug-ins",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "UV Master",
@@ -476,8 +529,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 6,
      "section": "Plug-ins",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "3d Printing and Protoyping",
@@ -485,8 +539,9 @@ var _JSON_string_r3 =
      "difficulity": 3,
      "video part": 7,
      "section": "Plug-ins",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Timeline and Blendspace",
@@ -494,8 +549,9 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "video part": 5,
      "section": "Posing and Animation",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Material",
@@ -503,8 +559,9 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 5,
      "section": "Rendering",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Lighting",
@@ -512,8 +569,9 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "video part": 2,
      "section": "Rendering",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Render Properties",
@@ -521,8 +579,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 2,
      "section": "Rendering",
-     "status": 0,
-     "software": "Zbrush"
+     "progress": 0,
+     "software": "Zbrush",
+     "for": ""
    },
    {
      "title": "Changing Languages",
@@ -530,8 +589,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "getting started",
-     "status": 0,
-     "software": "ZbrushCore"
+     "progress": 0,
+     "software": "ZbrushCore",
+     "for": ""
    },
    {
      "title": "The Basic of ZbrushCore",
@@ -539,8 +599,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 10,
      "section": "getting started",
-     "status": 0,
-     "software": "ZbrushCore"
+     "progress": 0,
+     "software": "ZbrushCore",
+     "for": ""
    },
    {
      "title": "Conceptual Sculpting",
@@ -548,8 +609,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "getting started",
-     "status": 0,
-     "software": "ZbrushCore"
+     "progress": 0,
+     "software": "ZbrushCore",
+     "for": ""
    },
    {
      "title": "Subdivision vs Dynamesh",
@@ -557,8 +619,9 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "getting started",
-     "status": 0,
-     "software": "ZbrushCore"
+     "progress": 0,
+     "software": "ZbrushCore",
+     "for": ""
    }
   ]
 }
