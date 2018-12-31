@@ -1,0 +1,45 @@
+command,shortcut,condition-r3,type
+open project,Ctril + O,,general
+save project,Ctrl + S,,general
+quick save,9,,general
+undo,Ctrl + Z,,general
+redo,Shift + Ctrl + Z,,general
+tools,F1,,general
+brush,F2,,general
+strokes,F3,,general
+alphas,F4,,general
+textures,F5,,general
+materials,F6,cursor off canvas,general
+flat color,F6,cursor on canvas,general
+quick menu,Space or RightClick,,general
+description,Ctrl,cursor on item,general
+alternate description,Ctrl + Alt,cursor on item,general
+toggle floating pallete,Tab,,general
+Projection Master,G,,general
+Light Box,",",,light box
+toggle edit mode,T,,3d model
+clear canvas,Ctrl + N,,3d model
+save tool,Shift + Ctrl + T,,3d model
+fit mesh to view,F,,3d model
+toggle perspective,P,,3d model
+toggle floor grid,Shift + P,,3d model
+toggle symmetry,X,,3d model
+toggle polyframe and polygroup,Shift + F,,3d model
+zoom in,+,,Zoom
+zoom out,-,,Zoom
+divide,Ctrl + D,,subdivide
+lower resolution Shift + D,,,subdivide
+higher resolution,D,,subdivide
+draw size,S,,sculpting
+focal shift,O,,sculpting
+RGB intensity,I,,painting
+Z intensity,U,,sculpting
+draw,Q,,sculpting
+move,W,,transform
+scale,E,,transform
+rotate,R,,transform
+mask,Ctrl + LeftClick,,sculpting
+erase mask,Ctrl + Alt + LeftClick,,sculpting
+smooth,Shift + LeftClick,,sculpting
+select,Shift + Ctrl + LeftClick,,sculpting
+select subtool,Alt + LeftClick,,sculpting

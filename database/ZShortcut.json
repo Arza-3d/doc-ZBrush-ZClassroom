@@ -1,0 +1,267 @@
+_JSON_string_r3['ZShortcut'] =
+[
+ {
+   "command": "open project",
+   "shortcut": "Ctrl + O",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "save project",
+   "shortcut": "Ctrl + S",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "quick save",
+   "shortcut": "9",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "undo",
+   "shortcut": "Ctrl + Z",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "redo",
+   "shortcut": "Shift + Ctrl + Z",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "tools",
+   "shortcut": "F1",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "brush",
+   "shortcut": "F2",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "strokes",
+   "shortcut": "F3",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "alphas",
+   "shortcut": "F4",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "textures",
+   "shortcut": "F5",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "materials",
+   "shortcut": "F6",
+   "condition-r3": "cursor off canvas",
+   "type": "general"
+ },
+ {
+   "command": "flat color",
+   "shortcut": "F6",
+   "condition-r3": "cursor on canvas",
+   "type": "general"
+ },
+ {
+   "command": "quick menu",
+   "shortcut": "Space or RightClick",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "description",
+   "shortcut": "Ctrl",
+   "condition-r3": "cursor on item",
+   "type": "general"
+ },
+ {
+   "command": "alternate description",
+   "shortcut": "Ctrl + Alt",
+   "condition-r3": "cursor on item",
+   "type": "general"
+ },
+ {
+   "command": "toggle floating pallete",
+   "shortcut": "Tab",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "Projection Master",
+   "shortcut": "G",
+   "condition-r3": "",
+   "type": "general"
+ },
+ {
+   "command": "Light Box",
+   "shortcut": ",",
+   "condition-r3": "",
+   "type": "light box"
+ },
+ {
+   "command": "toggle edit mode",
+   "shortcut": "T",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "clear canvas",
+   "shortcut": "Ctrl + N",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "save tool",
+   "shortcut": "Shift + Ctrl + T",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "fit mesh to view",
+   "shortcut": "F",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "toggle perspective",
+   "shortcut": "P",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "toggle floor grid",
+   "shortcut": "Shift + P",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "toggle symmetry",
+   "shortcut": "X",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "toggle polyframe and polygroup",
+   "shortcut": "Shift + F",
+   "condition-r3": "",
+   "type": "3d model"
+ },
+ {
+   "command": "zoom in",
+   "shortcut": "+",
+   "condition-r3": "",
+   "type": "Zoom"
+ },
+ {
+   "command": "zoom out",
+   "shortcut": "-",
+   "condition-r3": "",
+   "type": "Zoom"
+ },
+ {
+   "command": "divide",
+   "shortcut": "Ctrl + D",
+   "condition-r3": "",
+   "type": "subdivide"
+ },
+ {
+   "command": "lower resolution Shift + D",
+   "shortcut": "",
+   "condition-r3": "",
+   "type": "subdivide"
+ },
+ {
+   "command": "higher resolution",
+   "shortcut": "D",
+   "condition-r3": "",
+   "type": "subdivide"
+ },
+ {
+   "command": "draw size",
+   "shortcut": "S",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "focal shift",
+   "shortcut": "O",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "RGB intensity",
+   "shortcut": "I",
+   "condition-r3": "",
+   "type": "painting"
+ },
+ {
+   "command": "Z intensity",
+   "shortcut": "U",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "draw",
+   "shortcut": "Q",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "move",
+   "shortcut": "W",
+   "condition-r3": "",
+   "type": "transform"
+ },
+ {
+   "command": "scale",
+   "shortcut": "E",
+   "condition-r3": "",
+   "type": "transform"
+ },
+ {
+   "command": "rotate",
+   "shortcut": "R",
+   "condition-r3": "",
+   "type": "transform"
+ },
+ {
+   "command": "mask",
+   "shortcut": "Ctrl + LeftClick",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "erase mask",
+   "shortcut": "Ctrl + Alt + LeftClick",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "smooth",
+   "shortcut": "Shift + LeftClick",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "select",
+   "shortcut": "Shift + Ctrl + LeftClick",
+   "condition-r3": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "select subtool",
+   "shortcut": "Alt + LeftClick",
+   "condition-r3": "",
+   "type": "sculpting"
+ }
+];
