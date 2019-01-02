@@ -3,265 +3,278 @@ _JSON_string_r3['ZShortcut'] =
  {
    "command": "open project",
    "_shortcut": "Ctrl + O",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "save project",
    "_shortcut": "Ctrl + S",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "quick save",
    "_shortcut": "9",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "undo",
    "_shortcut": "Ctrl + Z",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "redo",
    "_shortcut": "Shift + Ctrl + Z",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "tools",
    "_shortcut": "F1",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "brush",
    "_shortcut": "F2",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "strokes",
    "_shortcut": "F3",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "alphas",
    "_shortcut": "F4",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "textures",
    "_shortcut": "F5",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "materials",
    "_shortcut": "F6",
-   "condition-r3": "cursor off canvas",
+   "_condition": "cursor off canvas",
    "type": "general"
  },
  {
    "command": "flat color",
    "_shortcut": "F6",
-   "condition-r3": "cursor on canvas",
+   "_condition": "cursor on canvas",
    "type": "general"
  },
  {
    "command": "quick menu",
    "_shortcut": "_space _or _rclick",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "description",
    "_shortcut": "Ctrl",
-   "condition-r3": "cursor on item",
+   "_condition": "cursor on item",
    "type": "general"
  },
  {
    "command": "alternate description",
    "_shortcut": "Ctrl + Alt",
-   "condition-r3": "cursor on item",
+   "_condition": "cursor on item",
    "type": "general"
  },
  {
    "command": "toggle floating pallete",
    "_shortcut": "Tab",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "Projection Master",
    "_shortcut": "G",
-   "condition-r3": "",
+   "_condition": "",
    "type": "general"
  },
  {
    "command": "Light Box",
    "_shortcut": ",",
-   "condition-r3": "",
+   "_condition": "",
    "type": "light box"
  },
  {
    "command": "toggle edit mode",
    "_shortcut": "T",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "clear canvas",
    "_shortcut": "Ctrl + N",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "save tool",
    "_shortcut": "Shift + Ctrl + T",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "fit mesh to view",
    "_shortcut": "F",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "toggle perspective",
    "_shortcut": "P",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "toggle floor grid",
    "_shortcut": "Shift + P",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "toggle symmetry",
    "_shortcut": "X",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "toggle polyframe and polygroup",
    "_shortcut": "Shift + F",
-   "condition-r3": "",
+   "_condition": "",
    "type": "3d model"
  },
  {
    "command": "zoom in",
    "_shortcut": "_plus",
-   "condition-r3": "",
+   "_condition": "",
    "type": "Zoom"
  },
  {
    "command": "zoom out",
    "_shortcut": "-",
-   "condition-r3": "",
+   "_condition": "",
    "type": "Zoom"
  },
  {
    "command": "divide",
    "_shortcut": "Ctrl + D",
-   "condition-r3": "",
+   "_condition": "",
    "type": "subdivide"
  },
  {
    "command": "lower resolution",
-   "_shortcut": "Shift + D",
-   "condition-r3": "",
+   "_shortcut": "Shift + d",
+   "_condition": "",
    "type": "subdivide"
  },
  {
    "command": "higher resolution",
    "_shortcut": "D",
-   "condition-r3": "",
+   "_condition": "",
    "type": "subdivide"
  },
  {
    "command": "draw size",
    "_shortcut": "S",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "focal shift",
    "_shortcut": "O",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "RGB intensity",
    "_shortcut": "I",
-   "condition-r3": "",
+   "_condition": "",
    "type": "painting"
  },
  {
    "command": "Z intensity",
    "_shortcut": "U",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "draw",
    "_shortcut": "Q",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "move",
    "_shortcut": "W",
-   "condition-r3": "",
+   "_condition": "",
    "type": "transform"
  },
  {
    "command": "scale",
    "_shortcut": "E",
-   "condition-r3": "",
+   "_condition": "",
    "type": "transform"
  },
  {
    "command": "rotate",
    "_shortcut": "R",
-   "condition-r3": "",
+   "_condition": "",
    "type": "transform"
  },
  {
    "command": "mask",
    "_shortcut": "Ctrl + _lclick",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "erase mask",
    "_shortcut": "Ctrl + Alt + _lclick",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "smooth",
    "_shortcut": "Shift + _lclick",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "select",
    "_shortcut": "Shift + Ctrl + _lclick",
-   "condition-r3": "",
+   "_condition": "",
    "type": "sculpting"
  },
  {
    "command": "select subtool",
    "_shortcut": "Alt + _lclick",
-   "condition-r3": "",
+   "_condition": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "blur mask",
+   "_shortcut": "Alt + _lclick _in _the _model",
+   "_condition": "",
+   "type": "sculpting"
+ },
+ {
+   "command": "flip mask",
+   "_shortcut": "Ctrl + _lclick _in _the _canvas",
+   "_condition": "",
    "type": "sculpting"
  }
-];
+]
+;

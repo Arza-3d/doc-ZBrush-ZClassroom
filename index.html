@@ -9,11 +9,11 @@
     <link href="https://raw.githack.com/Arza-3d/ar3.js/master/stylesheets/ar3.min.css" rel="stylesheet" type="text/css">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <style>
-    input[type="text"] {
+    .filter-r3 input[type="text"] {
       max-width: 10px;
       border-radius: 5px;
     }
-    input[type="text"]:focus {
+    .filter-r3 input[type="text"]:focus {
       max-width: none;
     }
     </style>
@@ -52,7 +52,7 @@
               <th data-JSON-r3="_title+_link">title</th>
               <th data-JSON-r3="difficulity">difficulity</th>
               <th data-JSON-r3="video part">video part</th>
-              <th data-JSON-r3="progress">progress</th>
+              <th data-JSON-r3="_progress">progress</th>
             </thead>
           </table>
         </section>
@@ -68,7 +68,7 @@
               <th data-JSON-r3="_title+_link">title</th>
               <th data-JSON-r3="difficulity">difficulity</th>
               <th data-JSON-r3="video part">video part</th>
-              <th data-JSON-r3="progress">progress</th>
+              <th data-JSON-r3="_progress">progress</th>
             </thead>
           </table>
         </section>
@@ -79,17 +79,24 @@
               <th data-JSON-r3="_title+_link">title</th>
               <th data-JSON-r3="difficulity">difficulity</th>
               <th data-JSON-r3="video part">video part</th>
-              <th data-JSON-r3="progress">progress</th>
+              <th data-JSON-r3="_progress">progress</th>
             </thead>
           </table>
+        </section>
+      </div>
+      <div data-title-r3="shortcut">
+        <h2>spell</h2>
 
-          <table class="filter-r3" data-JSON-r3="ZShortcut">
+        <h3>shortcut</h3>
+        <section>
+          <table class="filter-r3 sort-r3" data-JSON-r3="ZShortcut" data-column-sort-r3="2">
             <thead>
               <th data-JSON-r3="command">command</th>
               <th data-JSON-r3="_shortcut">shortcut</th>
             </thead>
           </table>
         </section>
+
       </div>
     </main>
 

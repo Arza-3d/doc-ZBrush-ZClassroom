@@ -1,5 +1,5 @@
-command,shortcut,condition-r3,type
-open project,Ctril + O,,general
+command,_shortcut,_condition,type
+open project,Ctrl + O,,general
 save project,Ctrl + S,,general
 quick save,9,,general
 undo,Ctrl + Z,,general
@@ -11,7 +11,7 @@ alphas,F4,,general
 textures,F5,,general
 materials,F6,cursor off canvas,general
 flat color,F6,cursor on canvas,general
-quick menu,Space or RightClick,,general
+quick menu,_space _or _rclick,,general
 description,Ctrl,cursor on item,general
 alternate description,Ctrl + Alt,cursor on item,general
 toggle floating pallete,Tab,,general
@@ -25,10 +25,10 @@ toggle perspective,P,,3d model
 toggle floor grid,Shift + P,,3d model
 toggle symmetry,X,,3d model
 toggle polyframe and polygroup,Shift + F,,3d model
-zoom in,+,,Zoom
+zoom in,_plus,,Zoom
 zoom out,-,,Zoom
 divide,Ctrl + D,,subdivide
-lower resolution Shift + D,,,subdivide
+lower resolution,Shift + d,,subdivide
 higher resolution,D,,subdivide
 draw size,S,,sculpting
 focal shift,O,,sculpting
@@ -38,8 +38,10 @@ draw,Q,,sculpting
 move,W,,transform
 scale,E,,transform
 rotate,R,,transform
-mask,Ctrl + LeftClick,,sculpting
-erase mask,Ctrl + Alt + LeftClick,,sculpting
-smooth,Shift + LeftClick,,sculpting
-select,Shift + Ctrl + LeftClick,,sculpting
-select subtool,Alt + LeftClick,,sculpting
+mask,Ctrl + _lclick,,sculpting
+erase mask,Ctrl + Alt + _lclick,,sculpting
+smooth,Shift + _lclick,,sculpting
+select,Shift + Ctrl + _lclick,,sculpting
+select subtool,Alt + _lclick,,sculpting
+blur mask,Alt + _lclick _in _the _model,,sculpting
+flip mask,Ctrl + _lclick _in _the _canvas,,sculpting
