@@ -1,47 +1,61 @@
-command,_shortcut,_condition,type
-open project,Ctrl + O,,general
-save project,Ctrl + S,,general
-quick save,9,,general
-undo,Ctrl + Z,,general
-redo,Shift + Ctrl + Z,,general
-tools,F1,,general
-brush,F2,,general
-strokes,F3,,general
-alphas,F4,,general
-textures,F5,,general
-materials,F6,cursor off canvas,general
-flat color,F6,cursor on canvas,general
-quick menu,_space _or _rclick,,general
-description,Ctrl,cursor on item,general
-alternate description,Ctrl + Alt,cursor on item,general
-toggle floating pallete,Tab,,general
-Projection Master,G,,general
-Light Box,",",,light box
-toggle edit mode,T,,3d model
-clear canvas,Ctrl + N,,3d model
-save tool,Shift + Ctrl + T,,3d model
-fit mesh to view,F,,3d model
-toggle perspective,P,,3d model
-toggle floor grid,Shift + P,,3d model
-toggle symmetry,X,,3d model
-toggle polyframe and polygroup,Shift + F,,3d model
-zoom in,_plus,,Zoom
-zoom out,-,,Zoom
-divide,Ctrl + D,,subdivide
-lower resolution,Shift + d,,subdivide
-higher resolution,D,,subdivide
-draw size,S,,sculpting
-focal shift,O,,sculpting
-RGB intensity,I,,painting
-Z intensity,U,,sculpting
-draw,Q,,sculpting
-move,W,,transform
-scale,E,,transform
-rotate,R,,transform
-mask,Ctrl + _lclick,,sculpting
-erase mask,Ctrl + Alt + _lclick,,sculpting
-smooth,Shift + _lclick,,sculpting
-select,Shift + Ctrl + _lclick,,sculpting
-select subtool,Alt + _lclick,,sculpting
-blur mask,Alt + _lclick _in _the _model,,sculpting
-flip mask,Ctrl + _lclick _in _the _canvas,,sculpting
+command,_shortcut,magic type
+open project,Ctrl + O,restoration
+save project,Ctrl + S,restoration
+quick save,9,restoration
+undo,Ctrl + Z,time
+redo,Shift + Ctrl + Z,time
+tools,F1,general
+brush,F2,general
+strokes,F3,general
+alphas,F4,general
+textures,F5,2d
+materials,F6,2d
+flat color,F6,2d
+quick menu,_rclick,general
+quick menu,_space,general
+description,Ctrl,general
+alternate description,Ctrl + Alt,general
+toggle floating pallete,Tab,general
+Projection Master,G,general
+Light Box,",",light box
+toggle edit mode,T,3d model
+clear canvas,Ctrl + N,3d model
+save tool,Shift + Ctrl + T,3d model
+fit mesh to view,F,teleport
+toggle perspective,P,3d model
+toggle floor grid,Shift + P,3d model
+toggle symmetry,X,3d model
+toggle polyframe and polygroup,Shift + F,3d model
+zoom in,_plus,teleport
+zoom out,-,teleport
+divide,Ctrl + D,subdivide
+lower resolution,Shift + d,subdivide
+higher resolution,D,subdivide
+draw size,S,sculpting
+focal shift,O,sculpting
+RGB intensity,I,painting
+Z intensity,U,sculpting
+draw,Q,sculpting
+move,W,transform
+scale,E,transform
+rotate,R,transform
+mask,Ctrl + _lclick,sculpting
+erase mask,Ctrl + _lclick _on _canvas,sculpting
+smooth,Shift + _lclick,sculpting
+select,Shift + Ctrl + _lclick _drag _on _object,sculpting
+select subtool,Alt + _lclick,sculpting
+blur mask,Alt + _lclick _tap _on _object,sculpting
+invert mask,Ctrl + _lclick _on  _canvas,sculpting
+Best-preview render (BPR),Shift + r,render
+increase brush size,],sculpting
+decrease brush size,[,sculpting
+rotate edited object,_lclick _drag _on _canvas,teleport
+rotate edited object,_rclick _drag,teleport
+move edited object,Alt + _rclick,teleport
+move edited object,Alt + _lclick _drag _on _canvas,teleport
+scale edited object,"_press alt _, _rclick _drag + _release alt _",teleport
+scale edited object,"_press alt _, _lclick _drag _on _canvas + _release alt",teleport
+sharpen mask,Alt + ctrl + _lclick _tap _on _object,teleport
+invert selection,Shift + Ctrl + _lclick _drag _on _canvas,select
+mask all,Ctrl + a,mask
+unselect all,Shift + Ctrl + _lclick _tap _on _canvas,select

@@ -499,7 +499,7 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "video part": 6,
      "section": "getting started",
-     "_progress": 90,
+     "_progress": 0,
      "software": "Zbrush",
      "for": ""
    },
@@ -599,7 +599,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 10,
      "section": "getting started",
-     "_progress": 0,
+     "_progress": 50,
      "software": "ZbrushCore",
      "for": ""
    },
@@ -609,7 +609,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "video part": 1,
      "section": "getting started",
-     "_progress": 0,
+     "_progress": 100,
      "software": "ZbrushCore",
      "for": ""
    },
