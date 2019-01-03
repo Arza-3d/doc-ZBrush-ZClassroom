@@ -43,8 +43,15 @@ Texturing with GOZ,https://pixologic.com/zclassroom/workshop/goz,1,2,texturing,0
 Painting Techniques,https://pixologic.com/zclassroom/workshop/painting-techniques,2.5,4,texturing,0,Zbrush,
 Zbrush Introduction,https://pixologic.com/zclassroom/workshop/zbrush-introduction,1,14,getting started,0,Zbrush,
 Getting Started with Sculptris Pro,https://pixologic.com/zclassroom/workshop/getting-started-with-sculptris-pro,1.5,3,getting started,0,Zbrush,
-Zbrush UI,https://pixologic.com/zclassroom/workshop/zbrush-ui,1,5,getting started,0,Zbrush,
-How to Start in Zbrush,https://pixologic.com/zclassroom/workshop/how-to-start-in-zbrush,1,12,getting started,0,Zbrush,
+Zbrush UI,https://pixologic.com/zclassroom/workshop/zbrush-ui,1,5,getting started,100,Zbrush,"1. preferences config enableCostumize
+    Ctrl + alt + Lclick drag submenu to pallete to add or to canvas to drop
+    Prefrences costumUI createNewMenu
+
+    To make default preferences config storeConfig
+"
+How to Start in Zbrush,https://pixologic.com/zclassroom/workshop/how-to-start-in-zbrush,1,12,getting started,8,Zbrush,"1. you can zoom lightbox
+    Ctrl right click buat scaling
+    Save zpr actually is in file not in document LOL"
 Gizmo 3D,https://pixologic.com/zclassroom/workshop/gizmo-3d,1.5,3,getting started,0,Zbrush,
 Zmodeler Introduction,https://pixologic.com/zclassroom/workshop/zmodeler-introduction,2,5,getting started,0,Zbrush,
 Zspheres,https://pixologic.com/zclassroom/workshop/zspheres,1,14,getting started,0,Zbrush,
@@ -58,14 +65,16 @@ Material,https://pixologic.com/zclassroom/workshop/materials,2.5,5,Rendering,0,Z
 Lighting,https://pixologic.com/zclassroom/workshop/lighting,2,2,Rendering,0,Zbrush,
 Render Properties,https://pixologic.com/zclassroom/workshop/render-properties,1,2,Rendering,0,Zbrush,
 Changing Languages,https://pixologic.com/zclassroom/workshop/changing-languages,1,1,getting started,100,ZbrushCore,"Preferences, then language then config to set it as default"
-The Basic of ZbrushCore,https://pixologic.com/zclassroom/workshop/the-basics-of-zbrushcore,1,10,getting started,80,ZbrushCore,"1. To use light must use basic material
+The Basic of ZbrushCore,https://pixologic.com/zclassroom/workshop/the-basics-of-zbrushcore,1,10,getting started,90,ZbrushCore,"1. To use light must use basic material
 2. Actually there is also tray on the left side
 
 5. found sharpen shortcut (ctrl + alt tab on object)
 
 7. can use alt to on insert brush to flip the comp (can do substract bool with dynamesh)
-8. use lower subdiv for faster edit"
-Conceptual Sculpting,https://pixologic.com/zclassroom/workshop/conceptual-sculpting,1,1,getting started,90,ZbrushCore,
+8. use lower subdiv for faster edit
+9. subtool > geometry > modify topology > del hidden
+    Alt + move brush will move it towards the normal direction"
+Conceptual Sculpting,https://pixologic.com/zclassroom/workshop/conceptual-sculpting,1,1,getting started,100,ZbrushCore,
 Subdivision vs Dynamesh,https://pixologic.com/zclassroom/workshop/subdivision-vs-dynamesh,1,1,getting started,100,ZbrushCore,"Dynamesh for setting up default shape before retopo, and can use and blend IMM brushes,
 Harder to move if too many polygon
 

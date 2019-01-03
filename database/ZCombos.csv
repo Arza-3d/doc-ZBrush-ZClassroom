@@ -1,5 +1,6 @@
-combo,techs,,
-substract boolean,sub IMM brush &gt, unmask &gt, dynamesh
-add boolean,IMM brush &gt, unmask &gt, dynamesh
-mirror,,,
-delete some mesh,Subtool &gt; geometry &gt; modify topology &gt; del hidden,,
+combo,techs,,,
+substract boolean,sub IMM brush &gt, unmask &gt, dynamesh,
+add boolean,IMM brush &gt, unmask &gt, dynamesh,
+mirror,,,,
+delete some mesh,Subtool &gt, geometry &gt, modify topology &gt, del hidden
+move normal to surface,Alt + move brush,,,

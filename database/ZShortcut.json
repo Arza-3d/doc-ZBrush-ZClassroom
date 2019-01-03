@@ -3,302 +3,404 @@ _JSON_string_r3['ZShortcut'] =
  {
    "command": "open project",
    "_shortcut": "Ctrl + O",
-   "magic type": "restoration"
+   "magic type": "restoration",
+   "star": 2
  },
  {
    "command": "save project",
    "_shortcut": "Ctrl + S",
-   "magic type": "restoration"
+   "magic type": "restoration",
+   "star": 3
  },
  {
    "command": "quick save",
    "_shortcut": "9",
-   "magic type": "restoration"
+   "magic type": "restoration",
+   "star": 2
  },
  {
    "command": "undo",
    "_shortcut": "Ctrl + Z",
-   "magic type": "time"
+   "magic type": "time",
+   "star": 3
  },
  {
    "command": "redo",
    "_shortcut": "Shift + Ctrl + Z",
-   "magic type": "time"
+   "magic type": "time",
+   "star": 3
  },
  {
    "command": "tools",
    "_shortcut": "F1",
-   "magic type": "general"
+   "magic type": "general",
+   "star": 3
  },
  {
    "command": "brush",
    "_shortcut": "F2",
-   "magic type": "general"
+   "magic type": "general",
+   "star": 0
  },
  {
    "command": "strokes",
    "_shortcut": "F3",
-   "magic type": "general"
+   "magic type": "general",
+   "star": null
  },
  {
    "command": "alphas",
    "_shortcut": "F4",
-   "magic type": "general"
+   "magic type": "general",
+   "star": null
  },
  {
    "command": "textures",
    "_shortcut": "F5",
-   "magic type": "2d"
+   "magic type": "2d",
+   "star": null
  },
  {
    "command": "materials",
    "_shortcut": "F6",
-   "magic type": "2d"
+   "magic type": "2d",
+   "star": null
  },
  {
    "command": "flat color",
    "_shortcut": "F6",
-   "magic type": "2d"
+   "magic type": "2d",
+   "star": null
  },
  {
    "command": "quick menu",
    "_shortcut": "_rclick",
-   "magic type": "general"
+   "magic type": "general",
+   "star": 0
  },
  {
    "command": "quick menu",
    "_shortcut": "_space",
-   "magic type": "general"
+   "magic type": "general",
+   "star": 3
  },
  {
    "command": "description",
    "_shortcut": "Ctrl",
-   "magic type": "general"
+   "magic type": "general",
+   "star": null
  },
  {
    "command": "alternate description",
    "_shortcut": "Ctrl + Alt",
-   "magic type": "general"
+   "magic type": "general",
+   "star": null
  },
  {
    "command": "toggle floating pallete",
    "_shortcut": "Tab",
-   "magic type": "general"
+   "magic type": "general",
+   "star": null
  },
  {
    "command": "Projection Master",
    "_shortcut": "G",
-   "magic type": "general"
+   "magic type": "general",
+   "star": null
  },
  {
    "command": "Light Box",
    "_shortcut": ",",
-   "magic type": "light box"
+   "magic type": "light box",
+   "star": null
  },
  {
    "command": "toggle edit mode",
    "_shortcut": "T",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "clear canvas",
    "_shortcut": "Ctrl + N",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "save tool",
    "_shortcut": "Shift + Ctrl + T",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "fit mesh to view",
    "_shortcut": "F",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "toggle perspective",
    "_shortcut": "P",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "toggle floor grid",
    "_shortcut": "Shift + P",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "toggle symmetry",
    "_shortcut": "X",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "toggle polyframe and polygroup",
    "_shortcut": "Shift + F",
-   "magic type": "3d model"
+   "magic type": "3d model",
+   "star": null
  },
  {
    "command": "zoom in",
    "_shortcut": "_plus",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "zoom out",
    "_shortcut": "-",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "divide",
    "_shortcut": "Ctrl + D",
-   "magic type": "subdivide"
+   "magic type": "subdivide",
+   "star": null
  },
  {
    "command": "lower resolution",
    "_shortcut": "Shift + d",
-   "magic type": "subdivide"
+   "magic type": "subdivide",
+   "star": null
  },
  {
    "command": "higher resolution",
    "_shortcut": "D",
-   "magic type": "subdivide"
+   "magic type": "subdivide",
+   "star": null
  },
  {
    "command": "draw size",
    "_shortcut": "S",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": 3
  },
  {
    "command": "focal shift",
    "_shortcut": "O",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": 2
  },
  {
    "command": "RGB intensity",
    "_shortcut": "I",
-   "magic type": "painting"
+   "magic type": "painting",
+   "star": 2
  },
  {
    "command": "Z intensity",
    "_shortcut": "U",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": 2
  },
  {
    "command": "draw",
    "_shortcut": "Q",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": null
  },
  {
    "command": "move",
    "_shortcut": "W",
-   "magic type": "transform"
+   "magic type": "transform",
+   "star": null
  },
  {
    "command": "scale",
    "_shortcut": "E",
-   "magic type": "transform"
+   "magic type": "transform",
+   "star": null
  },
  {
    "command": "rotate",
    "_shortcut": "R",
-   "magic type": "transform"
+   "magic type": "transform",
+   "star": null
  },
  {
    "command": "mask",
    "_shortcut": "Ctrl + _lclick",
-   "magic type": "sculpting"
+   "magic type": "black mask",
+   "star": null
  },
  {
    "command": "erase mask",
    "_shortcut": "Ctrl + _lclick _on _canvas",
-   "magic type": "sculpting"
+   "magic type": "white mask",
+   "star": null
  },
  {
    "command": "smooth",
    "_shortcut": "Shift + _lclick",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": null
  },
  {
    "command": "select",
    "_shortcut": "Shift + Ctrl + _lclick _drag _on _object",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": null
  },
  {
    "command": "select subtool",
    "_shortcut": "Alt + _lclick _tab _on _object",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": null
  },
  {
    "command": "blur mask",
    "_shortcut": "Alt + _lclick _tap _on _object",
-   "magic type": "sculpting"
+   "magic type": "white mask",
+   "star": null
  },
  {
    "command": "invert mask",
    "_shortcut": "Ctrl + _lclick _on _canvas",
-   "magic type": "sculpting"
+   "magic type": "black mask",
+   "star": null
  },
  {
    "command": "Best-preview render (BPR)",
    "_shortcut": "Shift + r",
-   "magic type": "render"
+   "magic type": "render",
+   "star": null
  },
  {
    "command": "increase brush size",
    "_shortcut": "]",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": null
  },
  {
    "command": "decrease brush size",
    "_shortcut": "[",
-   "magic type": "sculpting"
+   "magic type": "sculpting",
+   "star": null
  },
  {
    "command": "rotate edited object",
    "_shortcut": "_lclick _drag _on _canvas",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "rotate edited object",
    "_shortcut": "_rclick _drag",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "move edited object",
    "_shortcut": "Alt + _rclick",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "move edited object",
    "_shortcut": "Alt + _lclick _drag _on _canvas",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "scale edited object",
    "_shortcut": "_press alt _, _rclick _drag + _release alt _",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": 2
  },
  {
    "command": "scale edited object",
    "_shortcut": "_press alt _, _lclick _drag _on _canvas + _release alt",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": 1
  },
  {
    "command": "sharpen mask",
    "_shortcut": "Alt + ctrl + _lclick _tap _on _object",
-   "magic type": "teleport"
+   "magic type": "teleport",
+   "star": null
  },
  {
    "command": "invert selection",
    "_shortcut": "Shift + Ctrl + _lclick _drag _on _canvas",
-   "magic type": "select"
+   "magic type": "green select",
+   "star": null
  },
  {
    "command": "mask all",
    "_shortcut": "Ctrl + a",
-   "magic type": "mask"
+   "magic type": "black mask",
+   "star": null
  },
  {
    "command": "unselect all",
    "_shortcut": "Shift + Ctrl + _lclick _tap _on _canvas",
-   "magic type": "select"
+   "magic type": "green select",
+   "star": 3
+ },
+ {
+   "command": "reduce selection",
+   "_shortcut": "Shift + ctrl + alt + _lclick _on _object",
+   "magic type": "red select",
+   "star": 3
+ },
+ {
+   "command": "scale lightbox",
+   "_shortcut": "_press alt _, _rclick _drag _on _lightbox+ _release alt",
+   "magic type": "lightbox",
+   "star": 1
+ },
+ {
+   "command": "scale edited object",
+   "_shortcut": "Ctrl + _rclick _drag",
+   "magic type": "teleport",
+   "star": 2
+ },
+ {
+   "command": "scale lightbox",
+   "_shortcut": "_lclick _drag _on _lightbox _bottom",
+   "magic type": "lightbox",
+   "star": 3
+ },
+ {
+   "command": "slide lightbox",
+   "_shortcut": "_lclick _drag _on _lightbox _side",
+   "magic type": "lightbox",
+   "star": 3
+ },
+ {
+   "command": "move submenu",
+   "_shortcut": "Ctrl + alt + _lclick _drag _on _submenu",
+   "magic type": "general",
+   "star": 2
+ },
+ {
+   "command": "magnify",
+   "_shortcut": "Shift + m",
+   "magic type": "general",
+   "star": 1
  }
 ]
 ;
