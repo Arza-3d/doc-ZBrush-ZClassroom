@@ -222,7 +222,7 @@ _JSON_string_r3['ZShortcut'] =
  },
  {
    "command": "select subtool",
-   "_shortcut": "Alt + _lclick",
+   "_shortcut": "Alt + _lclick _tab _on _object",
    "magic type": "sculpting"
  },
  {
@@ -232,7 +232,7 @@ _JSON_string_r3['ZShortcut'] =
  },
  {
    "command": "invert mask",
-   "_shortcut": "Ctrl + _lclick _on  _canvas",
+   "_shortcut": "Ctrl + _lclick _on _canvas",
    "magic type": "sculpting"
  },
  {
