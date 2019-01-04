@@ -401,6 +401,12 @@ _JSON_string_r3['ZShortcut'] =
    "_shortcut": "Shift + m",
    "magic type": "general",
    "star": 1
+ },
+ {
+   "command": "toggle edit zsketch",
+   "_shortcut": "Shift + a",
+   "magic type": "zsphere",
+   "star": 3
  }
 ]
 ;

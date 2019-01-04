@@ -66,3 +66,4 @@ scale lightbox,_lclick _drag _on _lightbox _bottom,lightbox,3
 slide lightbox,_lclick _drag _on _lightbox _side,lightbox,3
 move submenu,Ctrl + alt + _lclick _drag _on _submenu,general,2
 magnify,Shift + m,general,1
+toggle edit zsketch,Shift + a,zsphere,3
