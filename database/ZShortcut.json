@@ -407,6 +407,12 @@ _JSON_string_r3['ZShortcut'] =
    "_shortcut": "Shift + a",
    "magic type": "zsphere",
    "star": 3
+ },
+ {
+   "command": "toggle HD subdivision",
+   "_shortcut": "a",
+   "magic type": "subdivide",
+   "star": 3
  }
 ]
 ;
