@@ -53,14 +53,14 @@ rotate edited object,_lclick _drag _on _canvas,teleport,
 rotate edited object,_rclick _drag,teleport,
 move edited object,Alt + _rclick,teleport,
 move edited object,Alt + _lclick _drag _on _canvas,teleport,
-scale edited object,"_press alt _, _rclick _drag + _release alt _",teleport,2
-scale edited object,"_press alt _, _lclick _drag _on _canvas + _release alt",teleport,1
+scale edited object,"alt _, _rclick _drag + _release alt _",teleport,2
+scale edited object,"alt _, _lclick _drag _on _canvas + _release alt",teleport,1
 sharpen mask,Alt + ctrl + _lclick _tap _on _object,teleport,
 invert selection,Shift + Ctrl + _lclick _drag _on _canvas,green select,
 mask all,Ctrl + a,black mask,
 unselect all,Shift + Ctrl + _lclick _tap _on _canvas,green select,3
 reduce selection,Shift + ctrl + alt + _lclick _on _object,red select,3
-scale lightbox,"_press alt _, _rclick _drag _on _lightbox+ _release alt",lightbox,1
+scale lightbox,"alt _, _rclick _drag _on _lightbox+ _release alt",lightbox,1
 scale edited object,Ctrl + _rclick _drag,teleport,2
 scale lightbox,_lclick _drag _on _lightbox _bottom,lightbox,3
 slide lightbox,_lclick _drag _on _lightbox _side,lightbox,3
@@ -68,3 +68,5 @@ move submenu,Ctrl + alt + _lclick _drag _on _submenu,general,2
 magnify,Shift + m,general,1
 toggle edit zsketch,Shift + a,zsphere,3
 toggle HD subdivision,a,subdivide,3
+pick color,c,polypainting,2
+toggle gizmo 3d,y,transform,3

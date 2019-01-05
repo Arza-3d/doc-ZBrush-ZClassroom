@@ -326,13 +326,13 @@ _JSON_string_r3['ZShortcut'] =
  },
  {
    "command": "scale edited object",
-   "_shortcut": "_press alt _, _rclick _drag + _release alt _",
+   "_shortcut": "alt _, _rclick _drag + _release alt _",
    "magic type": "teleport",
    "star": 2
  },
  {
    "command": "scale edited object",
-   "_shortcut": "_press alt _, _lclick _drag _on _canvas + _release alt",
+   "_shortcut": "alt _, _lclick _drag _on _canvas + _release alt",
    "magic type": "teleport",
    "star": 1
  },
@@ -368,7 +368,7 @@ _JSON_string_r3['ZShortcut'] =
  },
  {
    "command": "scale lightbox",
-   "_shortcut": "_press alt _, _rclick _drag _on _lightbox+ _release alt",
+   "_shortcut": "alt _, _rclick _drag _on _lightbox+ _release alt",
    "magic type": "lightbox",
    "star": 1
  },
@@ -412,6 +412,18 @@ _JSON_string_r3['ZShortcut'] =
    "command": "toggle HD subdivision",
    "_shortcut": "a",
    "magic type": "subdivide",
+   "star": 3
+ },
+ {
+   "command": "pick color",
+   "_shortcut": "c",
+   "magic type": "polypainting",
+   "star": 2
+ },
+ {
+   "command": "toggle gizmo 3d",
+   "_shortcut": "y",
+   "magic type": "transform",
    "star": 3
  }
 ]

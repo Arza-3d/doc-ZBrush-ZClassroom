@@ -3,7 +3,7 @@ Head sculpting with Steve James,https://pixologic.com/zclassroom/workshop/head-s
 Sculpting with Images,https://pixologic.com/zclassroom/workshop/sculpting-with-images,1,2,digital sculpting and modelling,0,Zbrushcore,
 A Keychain for 3D Printing,https://pixologic.com/zclassroom/workshop/a-key-chain-for-3d-printing,1,1,digital sculpting and modelling,0,Zbrushcore,
 Creating a Character with IMM Brushes and Gizmo 3D,https://pixologic.com/zclassroom/workshop/creating-a-character-with-imm-brushes-gizmo-3d,1,3,digital sculpting and modelling,0,Zbrushcore,
-Radial Symmetry,https://pixologic.com/zclassroom/workshop/radial-symmetry,1,1,digital sculpting and modelling,100,Zbrushcore,"got error during saving ZPR at the end, should dave as ZTL before saving as ZPR next time"
+Radial Symmetry,https://pixologic.com/zclassroom/workshop/radial-symmetry,1,1,digital sculpting and modelling,1,Zbrushcore,"got error during saving ZPR at the end, should dave as ZTL before saving as ZPR next time"
 Surface Noise,https://pixologic.com/zclassroom/workshop/surface-noise,2,1,digital sculpting and modelling,0,Zbrushcore,
 Creating a Basemesh with Zspheres,https://pixologic.com/zclassroom/workshop/creating-a-basemesh-with-zspheres,1,4,digital sculpting and modelling,0,Zbrushcore,
 Using Tessimate,https://pixologic.com/zclassroom/workshop/using-tessimate,2,1,digital sculpting and modelling,0,Zbrush,
@@ -41,22 +41,22 @@ Zclassroom Extras,https://pixologic.com/zclassroom/workshop/zclassroom-extras,2.
 Spotlight,https://pixologic.com/zclassroom/workshop/spotlight,1,12,texturing,0,Zbrush,
 Texturing with GOZ,https://pixologic.com/zclassroom/workshop/goz,1,2,texturing,0,Zbrush,
 Painting Techniques,https://pixologic.com/zclassroom/workshop/painting-techniques,2.5,4,texturing,0,Zbrush,
-Zbrush Introduction,https://pixologic.com/zclassroom/workshop/zbrush-introduction,1,70,getting started,49,Zbrush,"1. first videos give ton of info
+Zbrush Introduction,https://pixologic.com/zclassroom/workshop/zbrush-introduction,1,14,getting started,14,Zbrush,"1. first videos give ton of info
 
 5. file revert = to revert to last save state ZPR"
-Getting Started with Sculptris Pro,https://pixologic.com/zclassroom/workshop/getting-started-with-sculptris-pro,1.5,3,getting started,33,Zbrush,
-Zbrush UI,https://pixologic.com/zclassroom/workshop/zbrush-ui,1,5,getting started,100,Zbrush,"1. preferences config enableCostumize
+Getting Started with Sculptris Pro,https://pixologic.com/zclassroom/workshop/getting-started-with-sculptris-pro,1.5,3,getting started,0,Zbrush,
+Zbrush UI,https://pixologic.com/zclassroom/workshop/zbrush-ui,1,5,getting started,5,Zbrush,"1. preferences config enableCostumize
     Ctrl + alt + Lclick drag submenu to pallete to add or to canvas to drop
     Prefrences costumUI createNewMenu
 
     To make default preferences config storeConfig
 "
-How to Start in Zbrush,https://pixologic.com/zclassroom/workshop/how-to-start-in-zbrush,1,12,getting started,8,Zbrush,"1. you can zoom lightbox
+How to Start in Zbrush,https://pixologic.com/zclassroom/workshop/how-to-start-in-zbrush,1,12,getting started,1,Zbrush,"1. you can zoom lightbox
     Ctrl right click buat scaling
     Save zpr actually is in file not in document LOL"
-Gizmo 3D,https://pixologic.com/zclassroom/workshop/gizmo-3d,1.5,3,getting started,0,Zbrush,
-Zmodeler Introduction,https://pixologic.com/zclassroom/workshop/zmodeler-introduction,2,5,getting started,20,Zbrush,
-Zspheres,https://pixologic.com/zclassroom/workshop/zspheres,1,42,getting started,42,Zbrush,"2. shift + a zsketch
+Gizmo 3D,https://pixologic.com/zclassroom/workshop/gizmo-3d,1.5,3,getting started,1,Zbrush,
+Zmodeler Introduction,https://pixologic.com/zclassroom/workshop/zmodeler-introduction,2,5,getting started,1,Zbrush,
+Zspheres,https://pixologic.com/zclassroom/workshop/zspheres,1,14,getting started,6,Zbrush,"2. shift + a zsketch
 3. brush depth
 4. tool zketch optimize
 5. binding"
@@ -69,8 +69,8 @@ Timeline and Blendspace,https://pixologic.com/zclassroom/workshop/timeline-blend
 Material,https://pixologic.com/zclassroom/workshop/materials,2.5,5,Rendering,0,Zbrush,
 Lighting,https://pixologic.com/zclassroom/workshop/lighting,2,2,Rendering,0,Zbrush,
 Render Properties,https://pixologic.com/zclassroom/workshop/render-properties,1,2,Rendering,0,Zbrush,
-Changing Languages,https://pixologic.com/zclassroom/workshop/changing-languages,1,1,getting started,100,ZbrushCore,"Preferences, then language then config to set it as default"
-The Basic of ZbrushCore,https://pixologic.com/zclassroom/workshop/the-basics-of-zbrushcore,1,10,getting started,90,ZbrushCore,"1. To use light must use basic material
+Changing Languages,https://pixologic.com/zclassroom/workshop/changing-languages,1,1,getting started,1,ZbrushCore,"Preferences, then language then config to set it as default"
+The Basic of ZbrushCore,https://pixologic.com/zclassroom/workshop/the-basics-of-zbrushcore,1,10,getting started,10,ZbrushCore,"1. To use light must use basic material
 2. Actually there is also tray on the left side
 
 5. found sharpen shortcut (ctrl + alt tab on object)
@@ -79,8 +79,8 @@ The Basic of ZbrushCore,https://pixologic.com/zclassroom/workshop/the-basics-of-
 8. use lower subdiv for faster edit
 9. subtool > geometry > modify topology > del hidden
     Alt + move brush will move it towards the normal direction"
-Conceptual Sculpting,https://pixologic.com/zclassroom/workshop/conceptual-sculpting,1,1,getting started,100,ZbrushCore,
-Subdivision vs Dynamesh,https://pixologic.com/zclassroom/workshop/subdivision-vs-dynamesh,1,1,getting started,100,ZbrushCore,"Dynamesh for setting up default shape before retopo, and can use and blend IMM brushes,
+Conceptual Sculpting,https://pixologic.com/zclassroom/workshop/conceptual-sculpting,1,1,getting started,1,ZbrushCore,
+Subdivision vs Dynamesh,https://pixologic.com/zclassroom/workshop/subdivision-vs-dynamesh,1,1,getting started,1,ZbrushCore,"Dynamesh for setting up default shape before retopo, and can use and blend IMM brushes,
 Harder to move if too many polygon
 
 Subdiv could be done after retopo, can use IMM brushes,
