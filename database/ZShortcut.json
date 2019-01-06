@@ -425,6 +425,12 @@ _JSON_string_r3['ZShortcut'] =
    "_shortcut": "y",
    "magic type": "transform",
    "star": 3
+ },
+ {
+   "command": "switch color",
+   "_shortcut": "v",
+   "magic type": "display",
+   "star": 2
  }
 ]
 ;

@@ -70,3 +70,4 @@ toggle edit zsketch,Shift + a,zsphere,3
 toggle HD subdivision,a,subdivide,3
 pick color,c,polypainting,2
 toggle gizmo 3d,y,transform,3
+switch color,v,display,2
