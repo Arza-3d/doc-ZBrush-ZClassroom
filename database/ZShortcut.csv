@@ -71,3 +71,4 @@ toggle HD subdivision,a,subdivide,3
 pick color,c,polypainting,2
 toggle gizmo 3d,y,transform,3
 switch color,v,display,2
+straighten sketch,Shift + alt + _lclick,zsketch,3

@@ -459,7 +459,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 12,
      "section": "getting started",
-     "_currentProgress": 1,
+     "_currentProgress": 10,
      "software": "Zbrush",
 
    },
@@ -489,7 +489,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 14,
      "section": "getting started",
-     "_currentProgress": 6,
+     "_currentProgress": 10,
      "software": "Zbrush",
 
    },

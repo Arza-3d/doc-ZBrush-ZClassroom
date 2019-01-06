@@ -431,6 +431,12 @@ _JSON_string_r3['ZShortcut'] =
    "_shortcut": "v",
    "magic type": "display",
    "star": 2
+ },
+ {
+   "command": "straighten sketch",
+   "_shortcut": "Shift + alt + _lclick",
+   "magic type": "zsketch",
+   "star": 3
  }
 ]
 ;
