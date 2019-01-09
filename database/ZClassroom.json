@@ -59,7 +59,7 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrushcore",
 
    },
@@ -79,7 +79,7 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },
@@ -99,7 +99,7 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "_maxProgress": 2,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },
@@ -119,7 +119,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },
@@ -149,7 +149,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 26,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 8,
      "software": "Zbrush",
 
    },
@@ -189,7 +189,7 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },
@@ -209,12 +209,12 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },
    {
-     "_title": "Helmet Deisgn",
+     "_title": "Helmet Design",
      "_link": "https://pixologic.com/zclassroom/workshop/helmet-design",
      "difficulity": 2.5,
      "_maxProgress": 41,
@@ -289,13 +289,13 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 3,
      "software": "Zbrush",
 
    },
    {
      "_title": "Insert Mesh",
-     "_link": "https://pixologic.com/zclassroom/workshop/transpose",
+     "_link": "https://pixologic.com/zclassroom/workshop/insert-mesh",
      "difficulity": 2.5,
      "_maxProgress": 9,
      "section": "digital sculpting and modelling",
@@ -439,7 +439,7 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "_maxProgress": 3,
      "section": "getting started",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },
@@ -479,7 +479,7 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "_maxProgress": 5,
      "section": "getting started",
-     "_currentProgress": 2,
+     "_currentProgress": 4,
      "software": "Zbrush",
 
    },
@@ -499,7 +499,7 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "_maxProgress": 6,
      "section": "getting started",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrush",
 
    },

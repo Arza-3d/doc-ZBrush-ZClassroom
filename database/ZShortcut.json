@@ -437,6 +437,18 @@ _JSON_string_r3['ZShortcut'] =
    "_shortcut": "Shift + alt + _lclick",
    "magic type": "zsketch",
    "star": 3
+ },
+ {
+   "command": "group mask / clear mask",
+   "_shortcut": "Ctrl + w",
+   "magic type": "green select",
+   "star": 3
+ },
+ {
+   "command": "mask unselected polygroup (transpose)",
+   "_shortcut": "Ctrl + _lclick",
+   "magic type": "transform",
+   "star": 3
  }
 ]
 ;

@@ -72,3 +72,5 @@ pick color,c,polypainting,2
 toggle gizmo 3d,y,transform,3
 switch color,v,display,2
 straighten sketch,Shift + alt + _lclick,zsketch,3
+group mask / clear mask,Ctrl + w,green select,3
+mask unselected polygroup (transpose),Ctrl + _lclick,transform,3
