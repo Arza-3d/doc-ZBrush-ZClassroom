@@ -74,3 +74,4 @@ switch color,v,display,2
 straighten sketch,Shift + alt + _lclick,zsketch,3
 group mask / clear mask,Ctrl + w,green select,3
 mask unselected polygroup (transpose),Ctrl + _lclick,transform,3
+snapshot,shift + s,display,3

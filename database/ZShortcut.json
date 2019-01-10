@@ -449,6 +449,12 @@ _JSON_string_r3['ZShortcut'] =
    "_shortcut": "Ctrl + _lclick",
    "magic type": "transform",
    "star": 3
+ },
+ {
+   "command": "snapshot",
+   "_shortcut": "shift + s",
+   "magic type": "display",
+   "star": 3
  }
 ]
 ;
