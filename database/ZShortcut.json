@@ -31,6 +31,12 @@ _JSON_string_r3['ZShortcut'] =
    "star": 3
  },
  {
+   "command": "turn curve",
+   "_shortcut": "alt + _lclick _drag",
+   "magic type": "curve",
+   "star": 3
+ },
+ {
    "command": "tools",
    "_shortcut": "F1",
    "magic type": "general",
@@ -448,6 +454,18 @@ _JSON_string_r3['ZShortcut'] =
    "command": "mask unselected polygroup (transpose)",
    "_shortcut": "Ctrl + _lclick",
    "magic type": "transform",
+   "star": 3
+ },
+ {
+   "command": "clear mesh in shadowbox",
+   "_shortcut": "Ctrl + _lclick _drag _on _canvas",
+   "magic type": "shadowbox",
+   "star": 3
+ },
+ {
+   "command": "invert mesh in shadowbox",
+   "_shortcut": "Ctrl + _lclick _tap _on _canvas",
+   "magic type": "shadowbox",
    "star": 3
  },
  {
