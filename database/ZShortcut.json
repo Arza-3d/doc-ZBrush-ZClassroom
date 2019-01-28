@@ -469,6 +469,42 @@ _JSON_string_r3['ZShortcut'] =
    "star": 3
  },
  {
+   "command": "prepare cut with dynamesh",
+   "_shortcut": "Ctrl + alt _drag _middle _move",
+   "magic type": "transpose",
+   "star": 3
+ },
+ {
+   "command": "snapshot confirm curve based brush",
+   "_shortcut": "5",
+   "magic type": "insert mesh",
+   "star": 3
+ },
+ {
+   "command": "smooth curve",
+   "_shortcut": "6",
+   "magic type": "insert mesh",
+   "star": 3
+ },
+ {
+   "command": "expose view",
+   "_shortcut": "shift + x",
+   "magic type": "display",
+   "star": 3
+ },
+ {
+   "command": "expand hidden selection",
+   "_shortcut": "ctrl + shift + s",
+   "magic type": "select",
+   "star": 3
+ },
+ {
+   "command": "auto mask rotate",
+   "_shortcut": "ctrl + _lclick _drag _transpose _circle _in _rotate _mode",
+   "magic type": "transpose",
+   "star": 3
+ },
+ {
    "command": "snapshot",
    "_shortcut": "shift + s",
    "magic type": "display",

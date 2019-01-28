@@ -29,7 +29,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 1,
      "software": "Zbrushcore",
 
    },
@@ -69,7 +69,7 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 4,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
+     "_currentProgress": 4,
      "software": "Zbrushcore",
 
    },
@@ -80,7 +80,7 @@ var _JSON_string_r3 =
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -90,7 +90,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -100,7 +100,7 @@ var _JSON_string_r3 =
      "_maxProgress": 2,
      "section": "digital sculpting and modelling",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -109,8 +109,8 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 1,
+     "software": "Zbrush"
 
    },
    {
@@ -120,7 +120,7 @@ var _JSON_string_r3 =
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -129,8 +129,8 @@ var _JSON_string_r3 =
      "difficulity": 2,
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 3,
+     "software": "Zbrush"
 
    },
    {
@@ -140,7 +140,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -150,7 +150,7 @@ var _JSON_string_r3 =
      "_maxProgress": 26,
      "section": "digital sculpting and modelling",
      "_currentProgress": 26,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -160,7 +160,7 @@ var _JSON_string_r3 =
      "_maxProgress": 13,
      "section": "digital sculpting and modelling",
      "_currentProgress": 13,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -170,7 +170,7 @@ var _JSON_string_r3 =
      "_maxProgress": 27,
      "section": "digital sculpting and modelling",
      "_currentProgress": 27,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -179,8 +179,8 @@ var _JSON_string_r3 =
      "difficulity": 1,
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 3,
+     "software": "Zbrush"
 
    },
    {
@@ -190,7 +190,7 @@ var _JSON_string_r3 =
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -200,7 +200,7 @@ var _JSON_string_r3 =
      "_maxProgress": 6,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -210,7 +210,7 @@ var _JSON_string_r3 =
      "_maxProgress": 1,
      "section": "digital sculpting and modelling",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -220,7 +220,7 @@ var _JSON_string_r3 =
      "_maxProgress": 41,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -229,8 +229,8 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "_maxProgress": 11,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 11,
+     "software": "Zbrush"
 
    },
    {
@@ -240,7 +240,7 @@ var _JSON_string_r3 =
      "_maxProgress": 13,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -250,7 +250,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
      "_currentProgress": 3,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -260,7 +260,7 @@ var _JSON_string_r3 =
      "_maxProgress": 18,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -270,7 +270,7 @@ var _JSON_string_r3 =
      "_maxProgress": 5,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -280,7 +280,7 @@ var _JSON_string_r3 =
      "_maxProgress": 6,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -290,7 +290,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
      "_currentProgress": 3,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -299,8 +299,8 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "_maxProgress": 9,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 9,
+     "software": "Zbrush"
 
    },
    {
@@ -309,8 +309,8 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "_maxProgress": 2,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 2,
+     "software": "Zbrush"
 
    },
    {
@@ -320,7 +320,7 @@ var _JSON_string_r3 =
      "_maxProgress": 10,
      "section": "digital sculpting and modelling",
      "_currentProgress": 10,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -329,8 +329,8 @@ var _JSON_string_r3 =
      "difficulity": 1.5,
      "_maxProgress": 4,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 4,
+     "software": "Zbrush"
 
    },
    {
@@ -339,8 +339,8 @@ var _JSON_string_r3 =
      "difficulity": 2.5,
      "_maxProgress": 11,
      "section": "digital sculpting and modelling",
-     "_currentProgress": 0,
-     "software": "Zbrush",
+     "_currentProgress": 11,
+     "software": "Zbrush"
 
    },
    {
@@ -350,7 +350,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -360,7 +360,7 @@ var _JSON_string_r3 =
      "_maxProgress": 5,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -370,7 +370,7 @@ var _JSON_string_r3 =
      "_maxProgress": 7,
      "section": "digital sculpting and modelling",
      "_currentProgress": 7,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -380,7 +380,7 @@ var _JSON_string_r3 =
      "_maxProgress": 8,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -390,7 +390,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "digital sculpting and modelling",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -400,7 +400,7 @@ var _JSON_string_r3 =
      "_maxProgress": 12,
      "section": "texturing",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -410,7 +410,7 @@ var _JSON_string_r3 =
      "_maxProgress": 2,
      "section": "texturing",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -420,7 +420,7 @@ var _JSON_string_r3 =
      "_maxProgress": 4,
      "section": "texturing",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -430,7 +430,7 @@ var _JSON_string_r3 =
      "_maxProgress": 14,
      "section": "getting started",
      "_currentProgress": 14,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -440,7 +440,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "getting started",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -450,7 +450,7 @@ var _JSON_string_r3 =
      "_maxProgress": 5,
      "section": "getting started",
      "_currentProgress": 5,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -460,7 +460,7 @@ var _JSON_string_r3 =
      "_maxProgress": 12,
      "section": "getting started",
      "_currentProgress": 12,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -470,7 +470,7 @@ var _JSON_string_r3 =
      "_maxProgress": 3,
      "section": "getting started",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -480,7 +480,7 @@ var _JSON_string_r3 =
      "_maxProgress": 5,
      "section": "getting started",
      "_currentProgress": 4,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -490,7 +490,7 @@ var _JSON_string_r3 =
      "_maxProgress": 14,
      "section": "getting started",
      "_currentProgress": 14,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -500,7 +500,7 @@ var _JSON_string_r3 =
      "_maxProgress": 6,
      "section": "getting started",
      "_currentProgress": 1,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -510,7 +510,7 @@ var _JSON_string_r3 =
      "_maxProgress": 2,
      "section": "Plug-ins",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -520,7 +520,7 @@ var _JSON_string_r3 =
      "_maxProgress": 4,
      "section": "Plug-ins",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -530,7 +530,7 @@ var _JSON_string_r3 =
      "_maxProgress": 6,
      "section": "Plug-ins",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -540,7 +540,7 @@ var _JSON_string_r3 =
      "_maxProgress": 7,
      "section": "Plug-ins",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -550,7 +550,7 @@ var _JSON_string_r3 =
      "_maxProgress": 5,
      "section": "Posing and Animation",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -560,7 +560,7 @@ var _JSON_string_r3 =
      "_maxProgress": 5,
      "section": "Rendering",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -570,7 +570,7 @@ var _JSON_string_r3 =
      "_maxProgress": 2,
      "section": "Rendering",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {
@@ -580,7 +580,7 @@ var _JSON_string_r3 =
      "_maxProgress": 2,
      "section": "Rendering",
      "_currentProgress": 0,
-     "software": "Zbrush",
+     "software": "Zbrush"
 
    },
    {

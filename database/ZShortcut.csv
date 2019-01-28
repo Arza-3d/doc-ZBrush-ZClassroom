@@ -77,4 +77,9 @@ mask unselected polygroup (transpose),Ctrl + _lclick,transform,3
 clear mesh in shadowbox,Ctrl + _lclick _drag _on _canvas,shadowbox,3
 turn curve,alt + _lclick _drag,curve,3
 invert mesh in shadowbox,Ctrl + _lclick _tap _on _canvas,shadowbox,3
+prepare cut with dynamesh,Ctrl + alt _drag _middle _move,transpose,3
+snapshot confirm curve based brush,5,insert mesh,3
+smooth curve,6,insert mesh,3
+expose view,shift + x,display,3
+expand hidden selection,ctrl + shift + s,select,3
 snapshot,shift + s,display,3
